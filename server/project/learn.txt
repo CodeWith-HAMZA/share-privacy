@@ -1,0 +1,2 @@
+. learnt about the breeze package, used for auth, no issue with --dev
+. used tinker package in laravel
